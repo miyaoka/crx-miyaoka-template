@@ -12,7 +12,7 @@
     "zip": "bestzip dist.zip dist/"
   },
   "devDependencies": {
-    "@crxjs/vite-plugin": "1.0.5",
+    "@crxjs/vite-plugin": "1.0.13",
     "@typescript-eslint/eslint-plugin": "5.23.0",
     "@typescript-eslint/parser": "5.23.0",
     "bestzip": "2.2.1",
